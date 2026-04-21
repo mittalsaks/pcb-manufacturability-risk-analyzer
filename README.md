@@ -178,7 +178,7 @@ Detected issues with practical fixes:
 
 Statistical relationship between density and thermal characteristics:
 
-![Correlation Analysis](Images/Screenshot%202026-04-18%20113958.png)
+![Correlation Analysis](Images/image.png)
 
 **Density vs Thermal Relationship:**
 - **Correlation Coefficient: 0.95** (very strong positive correlation)
